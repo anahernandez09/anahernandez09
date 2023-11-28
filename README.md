@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I’m Ana👋
 
+I’m currently working on my doctoral thesis on recovering the Mediterranean forest after fires and drought.
+
+📫 How to reach me: ana.hernandez@upla.cl
 <!--
 **anahernandez09/anahernandez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
